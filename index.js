@@ -7,19 +7,19 @@ function preserveDecimal(string)
 {
   return parseFloat(string)
   }
-  function add (p1, p2)
+  function add (a, b)
   {
-  return p1 + p2;
+  return a + b;
 }
-function subtracts (p1, p2)
+function subtract (a, b)
 {
-return p1 - p2;
+return a - b;
 }
-function multiplies (p1, p2)
+function multiplies (a, b)
 {
-return p1 * p2;
+return a * b;
 }
-function divides (p1, p2)
+function divides (a, b)
 {
-return p1 / p2;
+return a / b;
 }
