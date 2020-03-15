@@ -11,7 +11,15 @@ function preserveDecimal(string)
   {
   return p1 + p2;
 }
-function subtract (p1, p2)
+function subtracts (p1, p2)
 {
 return p1 - p2;
+}
+function multiplies (p1, p2)
+{
+return p1 * p2;
+}
+function divides (p1, p2)
+{
+return p1 / p2;
 }
